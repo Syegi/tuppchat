@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tuppchat/static/css/main.3aaddaa8.css",
+    "main.js": "/tuppchat/static/js/main.e870c305.js",
+    "static/js/787.03a42a22.chunk.js": "/tuppchat/static/js/787.03a42a22.chunk.js",
+    "index.html": "/tuppchat/index.html",
+    "main.3aaddaa8.css.map": "/tuppchat/static/css/main.3aaddaa8.css.map",
+    "main.e870c305.js.map": "/tuppchat/static/js/main.e870c305.js.map",
+    "787.03a42a22.chunk.js.map": "/tuppchat/static/js/787.03a42a22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aaddaa8.css",
+    "static/js/main.e870c305.js"
+  ]
+}
