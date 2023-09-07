@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.3aaddaa8.css",
-    "main.js": "/static/js/main.90a63a71.js",
-    "static/js/787.03a42a22.chunk.js": "/static/js/787.03a42a22.chunk.js",
-    "index.html": "/index.html",
-    "main.3aaddaa8.css.map": "/static/css/main.3aaddaa8.css.map",
-    "main.90a63a71.js.map": "/static/js/main.90a63a71.js.map",
-    "787.03a42a22.chunk.js.map": "/static/js/787.03a42a22.chunk.js.map"
+    "main.css": "/tuppchat/static/css/main.725f3da2.css",
+    "main.js": "/tuppchat/static/js/main.1ff13b74.js",
+    "static/js/787.03a42a22.chunk.js": "/tuppchat/static/js/787.03a42a22.chunk.js",
+    "index.html": "/tuppchat/index.html",
+    "main.725f3da2.css.map": "/tuppchat/static/css/main.725f3da2.css.map",
+    "main.1ff13b74.js.map": "/tuppchat/static/js/main.1ff13b74.js.map",
+    "787.03a42a22.chunk.js.map": "/tuppchat/static/js/787.03a42a22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3aaddaa8.css",
-    "static/js/main.90a63a71.js"
+    "static/css/main.725f3da2.css",
+    "static/js/main.1ff13b74.js"
   ]
 }
